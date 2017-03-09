@@ -1,3 +1,12 @@
+<style type="text/css">
+
+.info {
+  font-size: 14px;
+  padding: 15px 0;
+}
+
+</style>
+
 # hello-world
 Front-end developer at world greatest security company.
 Will work for skittles and licorice.
