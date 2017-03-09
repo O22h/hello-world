@@ -1,11 +1,3 @@
-<style>
-
-.info {
-  font-size: 14px;
-  padding: 15px 0;
-}
-
-</style>
 
 # hello-world
 Front-end developer at world greatest security company.
