@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
 
 .info {
   font-size: 14px;
